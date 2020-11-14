@@ -8,7 +8,7 @@ Created on Wed Jun 19 12:52:20 2019
 
 
 def main():
-    print("Hello world!")
+    print("Hello World!")
 
 main()
 
