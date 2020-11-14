@@ -5,7 +5,7 @@ Created on Wed Jun 19 12:52:20 2019
 
 @author: annastenberg
 """
-@@ -8,6 +8,40 @@ def debug_print(debug_msg=None, **kwargs):
+#@@ -8,6 +8,40 @@ def debug_print(debug_msg=None, **kwargs):
         print("{}: {}".format(key, value))
 
 
